@@ -1,0 +1,19 @@
+# Game Maker Studio 2 specific
+*.yyp.backup*
+*.yy.backup*
+/datafiles_yy/
+/options/
+/cache/
+/logs/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Build output
+/builds/
+*.exe
+*.zip

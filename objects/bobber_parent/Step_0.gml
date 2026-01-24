@@ -24,6 +24,14 @@ velocityy = clamp(velocityy, -max_speed, max_speed);
 
 var other_bobber = instance_place(x + velocityx, y + velocityy, bobber_parent);
 
+if (!place_meeting(x + velocityx, y + velocityy, TestPond)) {
+    // We're about to leave the pond - bounce back
+    
+    // Reverse velocity
+    velocityx = -velocityx * bounciness;
+    velocityy = -velocityy * bounciness;
+end
+
 if (other_bobber != noone) {
     // We're about to collide - bounce off each other
     var temp_vx = velocityx;
@@ -39,5 +47,3 @@ if (other_bobber != noone) {
 // 6. Update Position
 x += velocityx;
 y += velocityy;
-
-

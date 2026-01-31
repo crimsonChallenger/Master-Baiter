@@ -6,5 +6,5 @@ global.bounciness = 0.9
 
 //fish spawning
 global.fish_spawn_rate = 2
-global.fish_max_spawn = 10
+global.max_fish = 5
 global.spawn_margin = 16

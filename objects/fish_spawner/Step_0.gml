@@ -1,4 +1,6 @@
-fish_timer -= 1 / game_get_speed(gamespeed_fps)
+if (instance_number(fish_parent) < global.max_fish) {
+	fish_timer -= 1 / game_get_speed(gamespeed_fps)
+end
 
 if (fish_timer < 0) {
 	var fish_sprite = common_1

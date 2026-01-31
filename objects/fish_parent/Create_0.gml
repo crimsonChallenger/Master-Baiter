@@ -1,6 +1,3 @@
-/// @description Insert description here
-// You can write your code in this editor
-
-
-
-
+velocityx = 0
+velocityy = 0
+movedirection = 0

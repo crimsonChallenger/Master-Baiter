@@ -6,10 +6,14 @@
     {"id":{"name":"Test_Pond","path":"sprites/Test_Pond/Test_Pond.yy",},"order":2,},
     {"id":{"name":"TestPond","path":"objects/TestPond/TestPond.yy",},"order":3,},
     {"id":{"name":"bobber_parent","path":"objects/bobber_parent/bobber_parent.yy",},"order":1,},
+    {"id":{"name":"Init","path":"objects/Init/Init.yy",},"order":5,},
     {"id":{"name":"BobberP2_ph","path":"sprites/BobberP2_ph/BobberP2_ph.yy",},"order":1,},
     {"id":{"name":"BobberP1_ph","path":"sprites/BobberP1_ph/BobberP1_ph.yy",},"order":0,},
+    {"id":{"name":"fish_parent","path":"objects/fish_parent/fish_parent.yy",},"order":6,},
     {"id":{"name":"bobber_p1","path":"objects/bobber_p1/bobber_p1.yy",},"order":0,},
     {"id":{"name":"bobber_p2","path":"objects/bobber_p2/bobber_p2.yy",},"order":2,},
+    {"id":{"name":"fish_spawner","path":"objects/fish_spawner/fish_spawner.yy",},"order":4,},
+    {"id":{"name":"common_1","path":"sprites/common_1/common_1.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -45,6 +49,10 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy","order":6,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy","order":3,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":1,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"fish","folderPath":"folders/Sprites/fish.yy","order":3,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"common","folderPath":"folders/Sprites/fish/common.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"legendary","folderPath":"folders/Sprites/fish/legendary.yy","order":2,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"rare","folderPath":"folders/Sprites/fish/rare.yy","order":1,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy","order":2,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy","order":8,},
   ],
@@ -54,7 +62,9 @@
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","isScaled":true,"compressFormat":"bz2","loadType":"default","directory":"","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"common_1.aseprite","CopyToMask":0,"filePath":"datafiles",},
+  ],
   "MetaData": {
     "IDEVersion": "2022.0.3.85",
   },

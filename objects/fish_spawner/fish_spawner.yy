@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "bobber_parent",
+  "name": "fish_spawner",
   "spriteId": null,
   "solid": false,
   "visible": true,

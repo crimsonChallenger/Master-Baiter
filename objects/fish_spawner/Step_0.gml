@@ -1,4 +1,4 @@
-fish_timer -= delta_time / 1000000
+fish_timer -= 1 / game_get_speed(gamespeed_fps)
 
 if (fish_timer < 0) {
 	show_debug_message("fish timer done")

@@ -36,6 +36,5 @@ if (bbox_top + velocityy < 0 || bbox_bottom + velocityy > room_height) {
     velocityy = -velocityy * global.bounciness;
 }
 
-// 6. Update Position
 x += velocityx;
 y += velocityy;

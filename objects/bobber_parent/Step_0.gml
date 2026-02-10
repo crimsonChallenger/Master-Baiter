@@ -40,7 +40,9 @@ var fish = instance_place(x + velocityx, y + velocityy, fish_parent);
 
 if (fish != noone) {
 	array_push(fish_caught, fish.sprite_index)
-	instance_destroy(fish)
+	 with (fish) {
+        event_user(0); 
+	 }
 }
 
 x += velocityx;

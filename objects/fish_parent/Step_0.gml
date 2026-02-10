@@ -1,5 +1,11 @@
 move_timer -= 1 / game_get_speed(gamespeed_fps)
 
+if (image_alpha < 1) {
+    image_alpha += fade_speed;
+} else {
+    image_alpha = 1; 
+}
+
 if (move_timer < 0) {
     // Check if objects exist first to avoid crashes
     var d1 = instance_exists(bobber_p1) ? point_distance(x, y, bobber_p1.x, bobber_p1.y) : infinity;

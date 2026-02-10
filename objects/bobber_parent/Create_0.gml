@@ -1,3 +1,5 @@
+fish_caught = [];
+
 velocityx = 0;
 velocityy = 0;
 max_speed = 10

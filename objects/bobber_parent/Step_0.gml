@@ -38,11 +38,9 @@ if (bbox_top + velocityy < 0 || bbox_bottom + velocityy > room_height) {
 
 var fish = instance_place(x + velocityx, y + velocityy, fish_parent);
 
-if (fish != noone) {
+if (fish != noone && !fish.CaughtYa) {
 	array_push(fish_caught, fish.sprite_index)
-	 with (fish) {
-        event_user(0); 
-	 }
+	fish.CaughtYa = true
 }
 
 x += velocityx;

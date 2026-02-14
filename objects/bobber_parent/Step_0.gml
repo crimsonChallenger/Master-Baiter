@@ -36,12 +36,7 @@ if (bbox_top + velocityy < 0 || bbox_bottom + velocityy > room_height) {
     velocityy = -velocityy * global.bounciness;
 }
 
-var fish = instance_place(x + velocityx, y + velocityy, fish_parent);
 
-if (fish != noone && !fish.CaughtYa) {
-	array_push(fish_caught, fish.sprite_index)
-	fish.CaughtYa = true
-}
 
 x += velocityx;
 y += velocityy;

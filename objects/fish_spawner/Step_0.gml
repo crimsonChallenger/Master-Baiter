@@ -1,4 +1,4 @@
-if (instance_number(fish_parent) < global.max_fish) {
+if (fish_count < global.max_fish) {
 	fish_timer -= 1 / game_get_speed(gamespeed_fps)
 	
 	if (fish_timer < 0) {
@@ -10,6 +10,7 @@ if (instance_number(fish_parent) < global.max_fish) {
 		var fish = instance_create_layer(fish_x, fish_y, "Fish", fish_parent) 
 		fish.sprite_index = fish_sprite
 	
+		fish_count ++
 		fish_timer = global.fish_spawn_rate
 	end
 end

@@ -1,10 +1,14 @@
 move_timer -= 1 / game_get_speed(gamespeed_fps)
 
-if CaughtYa
-	{ if (!image_alpha = 1) {image_alpha = 1}
-	{ if (!image_blend = c_white) image_blend = c_white}
+if (CaughtYa)
+{
+	image_alpha -= fadeOut_speed;
+    if (image_alpha <= 0) {
+        instance_destroy();
+    }
 	
-	instance_destroy() }
+}
+
 else
 	{ if (image_alpha < 1) {
 	    image_alpha += fade_speed;

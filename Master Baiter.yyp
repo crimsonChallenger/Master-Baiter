@@ -6,6 +6,7 @@
     {"id":{"name":"Test_Pond","path":"sprites/Test_Pond/Test_Pond.yy",},"order":2,},
     {"id":{"name":"End","path":"rooms/End/End.yy",},"order":1,},
     {"id":{"name":"TestPond","path":"objects/TestPond/TestPond.yy",},"order":3,},
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
     {"id":{"name":"bobber_parent","path":"objects/bobber_parent/bobber_parent.yy",},"order":1,},
     {"id":{"name":"ctrl","path":"objects/ctrl/ctrl.yy",},"order":5,},
     {"id":{"name":"BobberP2_ph","path":"sprites/BobberP2_ph/BobberP2_ph.yy",},"order":1,},

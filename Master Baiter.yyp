@@ -15,6 +15,7 @@
     {"id":{"name":"bobber_p1","path":"objects/bobber_p1/bobber_p1.yy",},"order":0,},
     {"id":{"name":"bobber_p2","path":"objects/bobber_p2/bobber_p2.yy",},"order":2,},
     {"id":{"name":"fish_spawner","path":"objects/fish_spawner/fish_spawner.yy",},"order":4,},
+    {"id":{"name":"results_ctrl","path":"objects/results_ctrl/results_ctrl.yy",},"order":7,},
     {"id":{"name":"common_1","path":"sprites/common_1/common_1.yy",},"order":0,},
     {"id":{"name":"Pond","path":"rooms/Pond/Pond.yy",},"order":0,},
   ],

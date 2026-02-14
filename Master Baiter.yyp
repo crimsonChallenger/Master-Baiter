@@ -4,9 +4,10 @@
   "name": "Master Baiter",
   "resources": [
     {"id":{"name":"Test_Pond","path":"sprites/Test_Pond/Test_Pond.yy",},"order":2,},
+    {"id":{"name":"End","path":"rooms/End/End.yy",},"order":1,},
     {"id":{"name":"TestPond","path":"objects/TestPond/TestPond.yy",},"order":3,},
     {"id":{"name":"bobber_parent","path":"objects/bobber_parent/bobber_parent.yy",},"order":1,},
-    {"id":{"name":"Init","path":"objects/Init/Init.yy",},"order":5,},
+    {"id":{"name":"ctrl","path":"objects/ctrl/ctrl.yy",},"order":5,},
     {"id":{"name":"BobberP2_ph","path":"sprites/BobberP2_ph/BobberP2_ph.yy",},"order":1,},
     {"id":{"name":"BobberP1_ph","path":"sprites/BobberP1_ph/BobberP1_ph.yy",},"order":0,},
     {"id":{"name":"fish_parent","path":"objects/fish_parent/fish_parent.yy",},"order":6,},
@@ -14,7 +15,7 @@
     {"id":{"name":"bobber_p2","path":"objects/bobber_p2/bobber_p2.yy",},"order":2,},
     {"id":{"name":"fish_spawner","path":"objects/fish_spawner/fish_spawner.yy",},"order":4,},
     {"id":{"name":"common_1","path":"sprites/common_1/common_1.yy",},"order":0,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"Pond","path":"rooms/Pond/Pond.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Android","path":"options/android/options_android.yy",},
@@ -34,7 +35,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Pond","path":"rooms/Pond/Pond.yy",},},
+    {"roomId":{"name":"End","path":"rooms/End/End.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":12,},

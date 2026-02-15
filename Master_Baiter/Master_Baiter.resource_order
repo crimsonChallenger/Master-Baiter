@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"bobber_p2","order":2,"path":"objects/bobber_p2/bobber_p2.yy",},
+    {"name":"bobber_parent","order":1,"path":"objects/bobber_parent/bobber_parent.yy",},
+    {"name":"ctrl","order":5,"path":"objects/ctrl/ctrl.yy",},
+    {"name":"fish_parent","order":6,"path":"objects/fish_parent/fish_parent.yy",},
+    {"name":"fish_spawner","order":4,"path":"objects/fish_spawner/fish_spawner.yy",},
+    {"name":"results_ctrl","order":7,"path":"objects/results_ctrl/results_ctrl.yy",},
+    {"name":"Test","order":8,"path":"objects/Test/Test.yy",},
+    {"name":"TestPond","order":3,"path":"objects/TestPond/TestPond.yy",},
+    {"name":"End","order":1,"path":"rooms/End/End.yy",},
+    {"name":"BobberP2_ph","order":1,"path":"sprites/BobberP2_ph/BobberP2_ph.yy",},
+    {"name":"Test_Pond","order":2,"path":"sprites/Test_Pond/Test_Pond.yy",},
+  ],
+}

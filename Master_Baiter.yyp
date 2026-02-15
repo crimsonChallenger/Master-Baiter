@@ -48,7 +48,6 @@
     {"id":{"name":"fish_parent","path":"objects/fish_parent/fish_parent.yy",},},
     {"id":{"name":"fish_spawner","path":"objects/fish_spawner/fish_spawner.yy",},},
     {"id":{"name":"results_ctrl","path":"objects/results_ctrl/results_ctrl.yy",},},
-    {"id":{"name":"Test","path":"objects/Test/Test.yy",},},
     {"id":{"name":"TestPond","path":"objects/TestPond/TestPond.yy",},},
     {"id":{"name":"End","path":"rooms/End/End.yy",},},
     {"id":{"name":"Pond","path":"rooms/Pond/Pond.yy",},},

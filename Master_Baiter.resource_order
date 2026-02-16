@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"fnt_ui","order":1,"path":"fonts/fnt_ui/fnt_ui.yy",},
     {"name":"bobber_p2","order":2,"path":"objects/bobber_p2/bobber_p2.yy",},
     {"name":"bobber_parent","order":1,"path":"objects/bobber_parent/bobber_parent.yy",},
     {"name":"ctrl","order":5,"path":"objects/ctrl/ctrl.yy",},
@@ -10,6 +11,13 @@
     {"name":"TestPond","order":3,"path":"objects/TestPond/TestPond.yy",},
     {"name":"End","order":1,"path":"rooms/End/End.yy",},
     {"name":"BobberP2_ph","order":1,"path":"sprites/BobberP2_ph/BobberP2_ph.yy",},
+    {"name":"spr_ui_back","order":3,"path":"sprites/spr_ui_back/spr_ui_back.yy",},
+    {"name":"spr_ui_box","order":4,"path":"sprites/spr_ui_box/spr_ui_box.yy",},
+    {"name":"spr_ui_button","order":5,"path":"sprites/spr_ui_button/spr_ui_button.yy",},
+    {"name":"spr_ui_check","order":6,"path":"sprites/spr_ui_check/spr_ui_check.yy",},
+    {"name":"spr_ui_icon1","order":7,"path":"sprites/spr_ui_icon1/spr_ui_icon1.yy",},
+    {"name":"spr_ui_icon2","order":8,"path":"sprites/spr_ui_icon2/spr_ui_icon2.yy",},
+    {"name":"spr_ui_icon3","order":9,"path":"sprites/spr_ui_icon3/spr_ui_icon3.yy",},
     {"name":"Test_Pond","order":2,"path":"sprites/Test_Pond/Test_Pond.yy",},
   ],
 }

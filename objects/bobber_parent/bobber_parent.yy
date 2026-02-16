@@ -10,8 +10,8 @@
   "name":"bobber_parent",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Players",
+    "path":"folders/Objects/Players.yy",
   },
   "parentObjectId":null,
   "persistent":false,

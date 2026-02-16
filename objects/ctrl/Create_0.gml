@@ -15,7 +15,7 @@ global.spawn_margin = 16
 global.fish_speed = 3
 global.fish_move_timer = 1
 
-global.round_length = 10
+global.round_length = 500
 
 //audio_play_sound(snd_placeholder_music, 1, false);
 //round_timer = audio_sound_length(snd_placeholder_music) * room_speed;

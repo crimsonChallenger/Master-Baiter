@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"fish_spawner",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"PondBackground",
+  "eventList":[],
   "managed":true,
-  "name":"fish_spawner",
+  "name":"PondBackground",
   "overriddenProperties":[],
   "parent":{
-    "name":"Fish Shit",
-    "path":"folders/Objects/Fish Shit.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Test_Pond",
+    "path":"sprites/Test_Pond/Test_Pond.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

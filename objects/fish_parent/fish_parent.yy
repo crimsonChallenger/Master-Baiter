@@ -9,8 +9,8 @@
   "name":"fish_parent",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Fish Shit",
+    "path":"folders/Objects/Fish Shit.yy",
   },
   "parentObjectId":null,
   "persistent":false,

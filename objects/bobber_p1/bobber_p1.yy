@@ -8,8 +8,8 @@
   "name":"bobber_p1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Players",
+    "path":"folders/Objects/Players.yy",
   },
   "parentObjectId":{
     "name":"bobber_parent",

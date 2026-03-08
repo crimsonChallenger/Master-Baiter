@@ -11,6 +11,7 @@
     {"name":"bobber_parent","order":2,"path":"objects/bobber_parent/bobber_parent.yy",},
     {"name":"ctrl","order":5,"path":"objects/ctrl/ctrl.yy",},
     {"name":"fish_spawner","order":1,"path":"objects/fish_spawner/fish_spawner.yy",},
+    {"name":"obj_browserFitter","order":13,"path":"objects/obj_browserFitter/obj_browserFitter.yy",},
     {"name":"obj_pause_manager","order":12,"path":"objects/obj_pause_manager/obj_pause_manager.yy",},
     {"name":"PondBackground","order":3,"path":"objects/PondBackground/PondBackground.yy",},
     {"name":"results_ctrl","order":7,"path":"objects/results_ctrl/results_ctrl.yy",},

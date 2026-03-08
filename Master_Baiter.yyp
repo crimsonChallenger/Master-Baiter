@@ -52,6 +52,7 @@
     {"id":{"name":"ctrl","path":"objects/ctrl/ctrl.yy",},},
     {"id":{"name":"fish_parent","path":"objects/fish_parent/fish_parent.yy",},},
     {"id":{"name":"fish_spawner","path":"objects/fish_spawner/fish_spawner.yy",},},
+    {"id":{"name":"obj_browserFitter","path":"objects/obj_browserFitter/obj_browserFitter.yy",},},
     {"id":{"name":"obj_button","path":"objects/obj_button/obj_button.yy",},},
     {"id":{"name":"obj_pause_manager","path":"objects/obj_pause_manager/obj_pause_manager.yy",},},
     {"id":{"name":"PondBackground","path":"objects/PondBackground/PondBackground.yy",},},

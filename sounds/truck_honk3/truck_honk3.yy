@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"truck_honk3",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":2,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":4.0838776,
+  "exportDir":"",
+  "name":"truck_honk3",
+  "parent":{
+    "name":"Master_Baiter",
+    "path":"Master_Baiter.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"truck_honk3.wav",
+  "volume":1.0,
+}

@@ -1,0 +1,1 @@
+truck_honks = {truck_honk1, truck_honk2, truck_honk3}
